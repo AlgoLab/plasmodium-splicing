@@ -1,0 +1,28 @@
+PF3D7_0100500.1 non hanno stessa lunghezza ma differiscono per meno di 3 basi
+PF3D7_0208700.1 le posizini d'inizio differiscono per almeno 3 basi e non hanno stessa lunghezza
+PF3D7_0208700.2 non trovata isoforma in genedb
+PF3D7_0219400.2 non trovata isoforma in genedb
+PF3D7_0302300.1 non hanno stessa lunghezza ma differiscono per meno di 3 basi
+PF3D7_0304200.1 le posizini di fine differiscono per almeno 3 basi e non hanno stessa lunghezza
+PF3D7_0310600.2 non trovata isoforma in genedb
+PF3D7_0313700.2 non trovata isoforma in genedb
+PF3D7_0400600.1 non hanno stessa lunghezza ma differiscono per meno di 3 basi
+PF3D7_0500700.1 non hanno stessa lunghezza ma differiscono per meno di 3 basi
+PF3D7_0506600.1 non hanno stessa lunghezza ma differiscono per meno di 3 basi
+PF3D7_0730800.2 non trovata isoforma in genedb
+PF3D7_0808450.1 non trovato in plasmodb
+PF3D7_0903600.2 non trovata isoforma in genedb
+PF3D7_1019300.1 le posizini di fine differiscono per almeno 3 basi e non hanno stessa lunghezza
+PF3D7_1036600.2 non trovata isoforma in genedb
+PF3D7_1129850.1 non hanno stessa lunghezza ma differiscono per meno di 3 basi
+PF3D7_1135000.2 non trovata isoforma in genedb
+PF3D7_1135000.3 non trovata isoforma in genedb
+PF3D7_1139500.2 non trovata isoforma in genedb
+PF3D7_1212600.2 non trovata isoforma in genedb
+PF3D7_1219200.1 non hanno stessa lunghezza ma differiscono per meno di 3 basi
+PF3D7_1220200.1 non hanno stessa lunghezza ma differiscono per meno di 3 basi
+PF3D7_1200610.1 non trovato in plasmodb
+PF3D7_1330400.2 non trovata isoforma in genedb
+PF3D7_1411100.2 non trovata isoforma in genedb
+PF3D7_1455200.2 non trovata isoforma in genedb
+PF3D7_1475900.1 le posizini d'inizio differiscono per almeno 3 basi e non hanno stessa lunghezza
